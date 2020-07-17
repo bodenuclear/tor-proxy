@@ -7,9 +7,10 @@ Se sua aplicação apenas utilizar o protocolo HTTP, utilize a porta 9151. O pri
 
 ## Utilização
 
-´´´shell
+```shell
 docker-compose up
-´´´
+```
+
 Lembre-se de utilizar ´´´&´´´ no final do comando para fazer o processo rodar em background. Opicionalmente redirecione a saida.
 
 
